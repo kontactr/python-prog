@@ -1,0 +1,64 @@
+@,At
+2,Tomorrow
+2Nite,Tonight
+2Day,Today
+2Mor,Tomorrow
+2L8,Too Late
+Add,Address
+4,For
+911,Emergency, Call Me
+ATB,All The Best
+ASAP,As Soon As Possible
+BF,Boy Friend
+B/C,Because   
+B4,Before
+B'Day,Birthday
+BBN,Bye Bye Now
+BFF,Best Friend Forever
+BOT,Back On Topic
+CYL,Catch You Later
+DAM,Don't Ask Me
+DAQ,Don't Ask Question
+DDT,Don't Do That
+LOL,Laugh Out Loud
+TU,Thanks U
+GM,Good Morning
+GE,Good Evening
+GN,Good Night
+GF,Girl Friend
+G8,Great
+GTH,Go To Hell
+HAND,Have A Nice Day
+HBU,How About You
+HDU,How Dare You
+HF,Have Fun
+HMM,Thinking, Yes
+App,Application
+F9,Fine
+FBE,Facebook Friend
+K,Okey
+KL,Cool
+IDK,I Don't Know
+L8,Later
+Me2,Me Too
+N,And
+Nope,No
+Oops,Say Somthing, After make mistake
+Oye,Listen
+PPL,People
+PLZ,Please
+PM,Private Message
+RI8,Right
+S2U,Same To U
+SRY,Sorry
+Thanx,Thanks
+TX,Thanks
+Yeah,Yes
+YH,Yes
+WC,Welcome
+W8,Wait
+UR,Your
+U,You
+JK,Just Kidding
+FB,Facebook
+OMG,Oh My God

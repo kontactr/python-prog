@@ -1,0 +1,22 @@
+# fd -forward
+# rt -right
+# lt -left
+# bd - backward
+# color - color (second parameter color value as string not color code)
+# bye - exit
+
+# write your command here:
+# example - <command> <value>
+
+rt 60
+fd 50
+rt 60
+fd 50
+rt 60
+fd 50
+rt 60
+fd 50
+rt 60
+fd 50
+rt 60
+fd 50
