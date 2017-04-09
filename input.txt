@@ -1,0 +1,6 @@
+python,10
+c++,8
+java,6
+perl,4
+scala,2
+lisp,1

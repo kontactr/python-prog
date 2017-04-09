@@ -1,0 +1,4 @@
+python,215,gold,0.1
+c++,130,yellowgreen,0
+ruby,245,lightcoral,0
+java,210,lightblue,0
